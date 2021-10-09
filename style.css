@@ -1,0 +1,48 @@
+.body_background 
+{
+    background-image: url("https://img.ltwebstatic.com/images3_pi/2021/08/03/1627963350c5733a08516f2c65f62e5a135f9de286.webp");
+    background-position: center;
+    background-size: cover;
+}
+body{
+	background-image: url("https://img.ltwebstatic.com/images3_pi/2021/08/03/1627963350c5733a08516f2c65f62e5a135f9de286.webp");
+}
+#myCanvas
+
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+ 
+h2
+{
+    border-radius: 10px;
+    width: 200px;
+    padding: 5px;
+ }
+h3
+{
+    display: inline-block;
+}
+span
+{
+    color: black;   
+}
+a
+{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+    width: 600px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+ 
+
